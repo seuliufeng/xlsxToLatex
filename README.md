@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -690,3 +691,7 @@
   </body>
 </html>
 
+=======
+# xlsxToLatex
+matlab code that convert excel sheet1 to latex format
+>>>>>>> 8222302da643f57a6e4fe8e38afa529838c4d4c4
